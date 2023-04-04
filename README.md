@@ -9,7 +9,7 @@ In 1952 Robbins introduced the multi-armed bandit problem and it has sparked a l
 
 Scope: 
 
-The choice of the multi-arm bandit problem is motivated by its application to machine learning as a way to effectively measure the performance of learning algorithms. Our paper strengthens the results of the previous papers. It aims to present the optimal choice of the learning algorithm based on a Gaussian or Bernoulli distribution, with a practical and easy-to-understand implementation of the algorithm.
+The choice of the multi-arm bandit problem is motivated by its application to machine learning as a way to effectively measure the performance of learning algorithms. Our project strengthens the results of the previous research. It aims to present the optimal choice of the learning algorithm based on a Gaussian or Bernoulli distribution, with a practical and easy-to-understand implementation of the algorithm.
 
 Methods: 
 
